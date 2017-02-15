@@ -10,5 +10,6 @@ Shows 4 passing test
 
 
 Don't forget you can do `it.only` to check out a specific test.
+![alt text](https://github.com/jack2ky/mocha-set-up-with-mongo-calls/blob/master/testsInCmd.png "Result in command promp")
 
 ### Run by doing `npm test`
